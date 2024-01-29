@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+h1 {
+color:tomato;
+font-style: oblique;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration-line: underline;
+}
+
+#start-button {
+    color: tomato;
+    
+}
+
+
